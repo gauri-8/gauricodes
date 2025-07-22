@@ -4,8 +4,7 @@
 
 ---
 
-### 💫 About Me
-- 🚀 Currently building: **Vaultify** – A personalized developer growth tracker  
+### 💫 About Me 
 - 💻 Exploring: **DSA**, **Python**, and **Machine Learning**
 - 👩‍💻 Solved **150+ problems** on LeetCode  
 - 🏆 Completed the **50 Days of LeetCode** challenge  
