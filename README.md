@@ -55,8 +55,8 @@
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/your-instagram" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gauri18" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/gauriborse_18" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
@@ -65,7 +65,7 @@
 
 ```bash
 🔒 Vaultify – A full-stack developer growth tracker  
-💼 Tech Stack: React, Next.js, Node.js, Express, MongoDB, TailwindCSS, Figma  
+💼 Tech Stack: React, Next.js, Node.js, Express, MongoDB, TailwindCSS  
 ✨ Features: Add projects, track achievements, daily stats, AskVault AI, Codex notes  
 🎯 Built with the goal to help developers grow and showcase their journey!
 ```
